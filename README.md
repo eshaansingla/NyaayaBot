@@ -32,6 +32,7 @@ You can:
 ---
 
 ## 🗂️ Project Structure
+``` bash
 NyaayaBot/
 │
 ├── app.py # Main backend and Gradio interface
@@ -41,8 +42,7 @@ NyaayaBot/
 ├── README.md # Project documentation
 └── assets/
 └── nyaaya.ico # App favicon
-
----
+```
 
 ## ⚙️ Installation & Setup
 
@@ -54,22 +54,25 @@ source venv/bin/activate
 ```
 
 ### 2️⃣ Clone the repository
+``` bash
 python -m venv venv
 venv\Scripts\activate   # On Windows
 # or
 source venv/bin/activate   # On macOS/Linux
-
+```
 ### 3️⃣ Install dependencies
+``` bash
 pip install -r requirements.txt
-
+```
 ### 4️⃣ Add your Gemini API key
-
+``` bash
 Create a .env file in the project root:
 GEMINI_API_KEY=your_api_key_here
-
+```
 ### 5️⃣ Run the application
+``` bash
 python app.py
-
+```
 ### Demo Images
 
 <p align="center"> <img src="media/demo1.png" width="350"> <img src="media/demo2.png" width="350"> <img src="media/demo3.png" width="350"> </p>
