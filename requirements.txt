@@ -1,0 +1,8 @@
+gradio
+google-generativeai
+PyPDF2
+Pillow
+pytesseract
+speechrecognition
+datasets
+python-dotenv
