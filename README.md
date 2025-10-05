@@ -32,6 +32,7 @@ You can:
 ---
 
 ## 🗂️ Project Structure
+``` bash
 NyaayaBot/
 │
 ├── app.py # Main backend and Gradio interface
@@ -41,8 +42,7 @@ NyaayaBot/
 ├── README.md # Project documentation
 └── assets/
 └── nyaaya.ico # App favicon
-
----
+```
 
 ## ⚙️ Installation & Setup
 
