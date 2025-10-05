@@ -75,14 +75,14 @@ python app.py
 ```
 ### Demo Images
 
-<p align="center"> <img src="media/demo1.png" width="350"> <img src="media/demo2.png" width="350"> <img src="media/demo3.png" width="350"> </p>
+<p align="center"> <img src="demo1.png" width="350"> <img src="demo2.png" width="350"> <img src="demo3.png" width="350"> </p>
 ### 👤 Author
 
 Eshaan Singla
-🎓 B.E. Computer Science and Engineering
-🏫 Thapar Institute of Engineering and Technology, Patiala
-💡 Interests: DSA, Machine Learning, AI, and Web Systems
-📬 eshaansingla2807@gmail.com
+- 🎓 B.E. Computer Science and Engineering
+- 🏫 Thapar Institute of Engineering and Technology, Patiala
+- 💡 Interests: DSA, Machine Learning, AI, and Web Systems
+- 📬 eshaansingla2807@gmail.com
 
 ### 🚀 Future Enhancements
 
