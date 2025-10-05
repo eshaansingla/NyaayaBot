@@ -75,7 +75,8 @@ python app.py
 ```
 ### Demo Images
 
-<p align="center"> <img src="demo1.png" width="350"> <img src="demo2.png" width="350"> <img src="demo3.png" width="350"> </p>
+<p align="center"> <img src="demo1.png"> <img src="demo2.png"> <img src="demo3.png"> </p>
+
 ### 👤 Author
 
 Eshaan Singla
