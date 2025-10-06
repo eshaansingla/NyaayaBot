@@ -89,11 +89,8 @@ Eshaan Singla
 
 🔊 Add voice query support using Speech Recognition
 
-🌐 Add Hindi and Punjabi language support
-
 📘 Expand scope to cover consumer protection and civil disputes
 
-🧾 Include legal document summarization and case law retrieval
 
 ### ⚖️ Legal Disclaimer
 
